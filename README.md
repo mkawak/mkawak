@@ -1,7 +1,8 @@
 - 👋🏻 Hi, I’m Majd
 - 👀 I’m interested in Computer Science topics
-- 👨🏻‍💻 I’m currently learning Computer Science @ University of California Riverside (UCR)
+- 👨🏻‍💻 Undergraduate Computer Science student @ University of California Riverside (UCR)
 - 💞️ I’m looking to collaborate on cool and fun projects
+- 🖇️ Connect with me on <a href="https://www.linkedin.com/in/majd-kawak"> LinkedIn </a> 
 - 📬 Reach me mkawak.cs@gmail.com
 
 <!---
