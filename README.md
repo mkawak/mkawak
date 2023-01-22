@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science topics
 - 👨🏻‍💻 Undergraduate Computer Science student @ University of California Riverside (UCR)
 - 💞️ I’m looking to collaborate on cool and fun projects
-- 🖇️ Connect with me on <a href="https://www.linkedin.com/in/majd-kawak"> LinkedIn </a> 
+- 🖇️ Connect with me on <a href="https://www.linkedin.com/in/majd-kawak" target="_blank"> LinkedIn </a> 
 - 📬 Reach me mkawak.cs@gmail.com
 
 <!---
